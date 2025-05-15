@@ -92,11 +92,23 @@ This is a great way to:
 ## 3) Questions
 
 - What is the difference between a regular and a bare repository?
+
 - Why is a bare repository required on the remote?
 - What is the structure of a Git SSH remote URL?
+
+ssh://<USERNAME>@<IP-ADRESSE>:<PORT>/<PATH>
+
 - What happens if the SSH key or password is not accepted?
+
+undenied
+
 - What output do you get from `git remote -v`?
+
+You can see your remot connections and your rights (push)(fetch)
+
 - Can you clone your remote repo from another machine?
+
+Yes
 
 ## 4) Advice
 
